@@ -14,7 +14,7 @@ A responsive landing page for the fictional paint brand **ColorCrest Paints**.
  Project Structure
 - `index.html` – Main landing page
 - `style.css` – Custom styling
-- `assets/` – Placeholder images/icons
+- `Google/` – Images/icons
 
  Features
 - Hero banner with CTA
