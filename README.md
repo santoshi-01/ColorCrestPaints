@@ -14,7 +14,7 @@ A responsive landing page for the fictional paint brand **ColorCrest Paints**.
  Project Structure
 - `index.html` – Main landing page
 - `style.css` – Custom styling
-- `Google/` – Images/icons
+- `Google`– Images/icons
 
  Features
 - Hero banner with CTA
@@ -26,9 +26,4 @@ A responsive landing page for the fictional paint brand **ColorCrest Paints**.
  Live Demo
 [Deployed on Netlify]  
 (https://colorcrestpaintss.netlify.app/)
-
- Setup
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/santoshi-01/colorcrest-paints.git
 
